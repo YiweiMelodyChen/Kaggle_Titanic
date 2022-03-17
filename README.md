@@ -6,6 +6,8 @@
 
 followed by https://www.kaggle.com/nedaamiri/titanic-decision-tree.
 
+这个过程中缺乏了对数据的初始分析，因此选用的特征数据可能并不合适
+
 Used packages are as follows
 
 ### DataFrame Package
