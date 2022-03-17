@@ -1,6 +1,9 @@
 # Kaggle_Titanic
 
 ## Decision Tree
+
+用决策树的方法进行预测
+
 followed by https://www.kaggle.com/nedaamiri/titanic-decision-tree.
 
 Used packages are as follows
